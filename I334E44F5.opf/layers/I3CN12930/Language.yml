@@ -1,0 +1,49 @@
+id: 36960bc011454e2595c07e7204a038fd
+annotation_type: Language
+revision: '00001'
+annotations:
+  d73eee82ced643558efe80ec7c3949fd:
+    span:
+      start: 39
+      end: 166
+    language: en
+  501fe35ee80c46999d74577155ca8d9b:
+    span:
+      start: 243
+      end: 625
+    language: en
+  3399447702674549b404f977e631f3d9:
+    span:
+      start: 627
+      end: 681
+    language: sa-Deva
+  29987be5f410435ca7c9149791d0ea63:
+    span:
+      start: 4115
+      end: 4165
+    language: sa-Deva
+  1ef49b3065f34e2ebf5a3223e979706f:
+    span:
+      start: 4391
+      end: 4451
+    language: en
+  f5fb041aae254318bacc177c7e415348:
+    span:
+      start: 7484
+      end: 7508
+    language: en
+  186113e86191484393076c8235a9c883:
+    span:
+      start: 7747
+      end: 7780
+    language: en
+  bca108e1c6fa46488afcf2ed78047fba:
+    span:
+      start: 302883
+      end: 302903
+    language: en
+  73d81e275cdc4162831371069a616b24:
+    span:
+      start: 306014
+      end: 306052
+    language: en
